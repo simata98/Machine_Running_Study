@@ -1,0 +1,8 @@
+*.jpg
+GDSC/개인공부/딥러닝/test1/
+GDSC/개인공부/딥러닝/train/
+*.h5
+*json
+*.png
+*.npy
+Anomaly_Detection/HAI_Detection/data
