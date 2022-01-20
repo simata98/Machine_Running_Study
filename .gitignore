@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 *.jpg
-GDSC/개인공부/딥러닝/test1/
-GDSC/개인공부/딥러닝/train/
+GDSC/개인공부/딥러닝/data/
 *.h5
 *json
 *.png
