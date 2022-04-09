@@ -5,9 +5,19 @@ GDSC/개인공부/딥러닝/data/
 *json
 *.png
 *.npy
+<<<<<<< HEAD
 Anomaly_Detection/HAI_Detection/data
 Anomaly_Detection/data
+=======
+*.pt
+Anomaly_Detection/HAI_Detection/data
+Anomaly_Detection/HAI_Detection/*.csv
+>>>>>>> 93ab6711d36b27cf452ae23ca62a22c952192bdb
 =======
 Anomaly_Detection/HAI_Anomal_Detection/hai-21.03/test/
 Anomaly_Detection/HAI_Anomal_Detection/hai-21.03/train/
 >>>>>>> refs/remotes/origin/master
+<<<<<<< HEAD
+=======
+
+>>>>>>> 93ab6711d36b27cf452ae23ca62a22c952192bdb
