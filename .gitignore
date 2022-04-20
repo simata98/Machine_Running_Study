@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-*.jpg
-GDSC/개인공부/딥러닝/data/
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c536ceab787bef5794953461884403f023f8a4414d837ff51330d580d38ea51
+size 511
 *.h5
-*json
-*.png
-*.npy
-Anomaly_Detection/HAI_Detection/data
-=======
-Anomaly_Detection/HAI_Anomal_Detection/hai-21.03/test/
-Anomaly_Detection/HAI_Anomal_Detection/hai-21.03/train/
->>>>>>> refs/remotes/origin/master
+*.whl
+*.csv
