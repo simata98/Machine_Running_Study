@@ -1,12 +1,3 @@
-x = '00081CFA'
-y = '06391A30FFD1A163'
-def convert(x):
-  if len(x) < 16:
-    while len(x) < 16:
-      print(x)
-      x = '00' + x
-      print(x)
-  return x
-
-print(convert(x))
-print(convert(y))
+version https://git-lfs.github.com/spec/v1
+oid sha256:587410ea6b93ffafd8623e62bdce9a9b55f5e9380c9ae0e46399d6036d9e9118
+size 191
