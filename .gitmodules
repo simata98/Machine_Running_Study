@@ -1,0 +1,3 @@
+[submodule "Anomaly_Detection/ETRI"]
+	path = Anomaly_Detection/ETRI
+	url = https://github.com/simata98/Etri-X-KT-hackathon.git

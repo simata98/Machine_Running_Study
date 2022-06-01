@@ -1,10 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c536ceab787bef5794953461884403f023f8a4414d837ff51330d580d38ea51
-size 511
 *.h5
 *.whl
 *.csv
 *.pb
+*.zip
 Anomaly_Detection/HAI_Anomal_Detection/hai-21.03/test/.DS_Store
 Anomaly_Detection/HAI_Anomal_Detection/hai-21.03/train/.DS_Store
 GDSC/Toy_project/ML-X-Flutter-toy-project/
+deepfake/data
