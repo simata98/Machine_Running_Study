@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:751a9062901ceb7b8673d7e9479adc93416e3f61888c0f55ffb525ba07cd9f27
-size 122
+{
+  "cSpell.words": [
+    "dtype",
+    "isna",
+    "Jeong",
+    "vectorizer"
+  ],
+  "jupyter.jupyterServerType": "local"
+}

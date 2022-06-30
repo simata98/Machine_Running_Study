@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:389e537fdce9db53e7e08c391004c5a2993572e8ccf43b49f41a87eb08dd6758
-size 187
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [],
+    "import": [],
+
+    "enabled" : false
+}
